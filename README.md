@@ -10,6 +10,7 @@ sudo apt install sox python3
 git clone
 cd linux-clicky
 ./main.py
+```
 
 Inspired by colszowka's [linux-typewritter](https://github.com/colszowka/linux-typewriter) script, linux-clicky produces a sound everytime you press a key on your keyboard. This might be useful for screensharing or a screencast if you want to have some type of feedback while you type.
 

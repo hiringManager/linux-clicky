@@ -1,6 +1,15 @@
 # linux-clicky
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=skkeeper&url=https://github.com/skkeeper/linux-clicky&title=linux-clicky&language=&tags=github&category=software)
+This is an application to make your keyboard make sounds if your keyboard doesn't make sounds or if you want sounds to go with your keyboard sounds.  
+
+Python3 version of linux-clicky. Lemme' know if it works out for you. This should not require root access, but I am still testing it.  
+
+```
+# Installation
+sudo apt install sox python3 
+git clone
+cd linux-clicky
+./main.py
 
 Inspired by colszowka's [linux-typewritter](https://github.com/colszowka/linux-typewriter) script, linux-clicky produces a sound everytime you press a key on your keyboard. This might be useful for screensharing or a screencast if you want to have some type of feedback while you type.
 
@@ -22,7 +31,7 @@ If you are worried about malicious code, the script is pretty small you can easi
 
 ## Disadvantages
 
-- Requires root access
+- Requires root access # Not sure if this is still the case, but it is not required for me.
 - It was coded while I was taking a break from another project, so expect a bit of bad code here and there (feel free to submit patches and report bugs).
 
 ## Dependencies
@@ -36,13 +45,6 @@ If you are worried about malicious code, the script is pretty small you can easi
 This is a very simple script therefore it's probably not gonna have a lot of focus on development, but I would love to add some more soundbanks into it, especially from mechanical keyboards. If you are interested in providing some  recordings feel free to contact me.
 
 Also since this is such a small script, please be aware that it may take me a while to get around to reply to bug reports.
-
-## Support Developers
-
-Flattr is a great way of supporting developers (and content creators) so we can continue developing better tools for free. So if you enjoy this piece of software please consider donating by clicking the Flattr icon bellow or contacting me directly. Thank you :)
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=skkeeper&url=https://github.com/skkeeper/linux-clicky&title=linux-clicky&language=&tags=github&category=software)
-
-Email contact: skkeeper at gmail dot com
 
 ## License
 

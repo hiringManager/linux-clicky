@@ -1,8 +1,8 @@
 # linux-clicky
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=skkeeper&url=https://github.com/skkeeper/linux-clicky&title=linux-clicky&language=&tags=github&category=software)
+This is linux clicky, an application to make your keyboard make keyboard sounds when your keyboard doesn't make keyboard sounds or if your want keyboard sounds to go with your keyboard sounds.  
 
-Inspired by colszowka's [linux-typewritter](https://github.com/colszowka/linux-typewriter) script, linux-clicky produces a sound everytime you press a key on your keyboard. This might be useful for screensharing or a screencast if you want to have some type of feedback while you type.
+I've converted this to *python3.x*, and it should work without any modification and without root access. as of right now - I have only tested on my main debian installation. *This should not require root access as is mentioned below.*  
 
 ## Usage
 
@@ -22,7 +22,7 @@ If you are worried about malicious code, the script is pretty small you can easi
 
 ## Disadvantages
 
-- Requires root access
+- Requires root access # This should no longer be the case 
 - It was coded while I was taking a break from another project, so expect a bit of bad code here and there (feel free to submit patches and report bugs).
 
 ## Dependencies

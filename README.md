@@ -37,11 +37,6 @@ This is a very simple script therefore it's probably not gonna have a lot of foc
 
 Also since this is such a small script, please be aware that it may take me a while to get around to reply to bug reports.
 
-## Support Developers
-
-Flattr is a great way of supporting developers (and content creators) so we can continue developing better tools for free. So if you enjoy this piece of software please consider donating by clicking the Flattr icon bellow or contacting me directly. Thank you :)
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=skkeeper&url=https://github.com/skkeeper/linux-clicky&title=linux-clicky&language=&tags=github&category=software)
-
 Email contact: skkeeper at gmail dot com
 
 ## License
